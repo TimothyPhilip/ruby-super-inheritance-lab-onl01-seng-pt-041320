@@ -7,7 +7,7 @@ class ChattyStudent < Student
   end  
   
   def raise_hand
-      counter = 2
+      counter = 3
       until counter == 10
         super
         puts "Pick me!"
