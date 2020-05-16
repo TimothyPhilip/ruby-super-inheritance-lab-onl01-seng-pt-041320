@@ -12,6 +12,7 @@ class ChattyStudent < Student
         super
         puts "Pick me!"
       counter += 1
+      end
     
   end 
   
